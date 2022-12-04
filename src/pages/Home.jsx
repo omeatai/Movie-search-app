@@ -10,7 +10,7 @@ export const Home = () => {
 
     const fetchMovies = () => {
         if(on){
-            return axios.request(`https://imdb-api.com/en/API/SearchAll/k_3q9vhkmq/${keyWord || "Spider"}`).then((res) => res.data)
+            return axios.request(`https://imdb-api.com/en/API/SearchAll/_____/${keyWord || "Spider"}`).then((res) => res.data)
         }else{
             return null;
         }
