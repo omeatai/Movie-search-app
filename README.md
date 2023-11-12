@@ -12,7 +12,7 @@ Website: https://ifeanyiomeata.com <br>
 - Javascript [https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - React [https://react.dev/](https://react.dev/)
 - TailwindCSS [https://tailwindcss.com/docs/installation](https://tailwindcss.com/docs/installation)
-- Vercel [https://vercel.com/](https://vercel.com/)
+- Netlify [https://app.netlify.com/](https://app.netlify.com/)
 
 ## Demo
 
